@@ -1,4 +1,5 @@
-2. Simulated distributed client
+# 2. Simulated distributed client
+ 
 Extend the solution to Q1 by instantiating 5 client processes and one aggregator process.
 a. All client processes start at the same tick of the time, say 10:01:01 AM.
 b. Client process read values from the websocket for 10 seconds and computes the average and
