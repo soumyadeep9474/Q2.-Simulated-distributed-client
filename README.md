@@ -6,7 +6,8 @@ b. Client process read values from the websocket for 10 seconds and computes the
 sends it to the aggregator process.
 c. Aggregator process waits for the average values from all the 5 processes. Upon getting all the
 values it computes yet another average and displays on the screen.
-------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------
 
 
 
